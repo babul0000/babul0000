@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Md Babul Hossan 👋
 
-<!--
-**babul0000/babul0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Garments Sample Technician** and an aspiring **MERN Stack Developer** 👨‍💻. Currently, I am mastering modern web development at **Programming Hero**.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack:
+- **Frontend:** React, JavaScript (ES6), Tailwind CSS, HTML5, CSS3
+- **Tools:** Git, GitHub, Firebase, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects:
+- **English Janla:** Interactive vocabulary learning app.
+- **GitHub Issues Tracker:** Professional bug management tool.
+
+### 📫 Connect with me:
+- **LinkedIn:** [আপনার প্রোফাইল লিঙ্ক এখানে দিন]
+- **Email:** [আপনার ইমেল এখানে দিন]
