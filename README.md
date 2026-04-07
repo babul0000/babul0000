@@ -1,30 +1,32 @@
-### Hello, nice to see you here! 👋  
+# Hi there, I'm Md Babul Hossan 👋
 
-I'm **Md Babul Hossan**, a MERN Stack Developer 👨‍💻  
-From Bangladesh 🇧🇩  
+I am a **Garments Sample Technician** and an aspiring **Full Stack Web Developer** 👨‍💻. Currently, I am a student at **Programming Hero (Level 1)**, focused on building professional web applications.
 
-💼 8+ years experience as Garments Sample Technician  
-🚀 বর্তমানে Web Development শিখছি এবং real-world project বানাচ্ছি  
+### 🚀 Currently Learning & Mastering:
+- **Frontend:** HTML5, CSS3, JavaScript (ES6), React.js, Tailwind CSS.
+- **Backend & Database:** Node.js, MongoDB (Upcoming).
+- **Tools & Platform:** Firebase, Git, GitHub, VS Code.
 
----
+### 🛠️ Tech Stack & Skills:
 
-## 🔗 Connect with me  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/babul-hossan-09932837a)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:babulhossan.info@gmail.com)  
+### 🎯 Future Goals (Next JS, Node JS, MongoDB):
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### 📈 GitHub Stats:
 
-## 🖼️ Banner  
+![Babul's GitHub stats](https://github-readme-stats.vercel.app/api?username=babul0000&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babul0000&layout=compact&theme=dark)
 
-![banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1200&auto=format&fit=crop)
+### 📫 Connect with me:
 
----
-
-## 📊 Current Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babul-hossan-09932837a/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/18aQfqhz3z/)
