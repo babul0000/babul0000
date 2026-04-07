@@ -11,5 +11,6 @@ I am a **Garments Sample Technician** and an aspiring **MERN Stack Developer** �
 - **GitHub Issues Tracker:** Professional bug management tool.
 
 ### 📫 Connect with me:
-- **LinkedIn:** [আপনার প্রোফাইল লিঙ্ক এখানে দিন]
-- **Email:** [আপনার ইমেল এখানে দিন]
+- **LinkedIn:** https://www.linkedin.com/in/babul-hossan-09932837a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 
+- **Email:** babulhossan.info@gmail.com
