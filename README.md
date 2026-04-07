@@ -1,6 +1,6 @@
 # Hi there, I'm Md Babul Hossan 👋
 
-I am a **Garments Sample Technician** and an aspiring **Full Stack Web Developer** 👨‍💻. Currently, I am a student at **Programming Hero (Level 1)**, focused on building professional web applications.
+I am a **Garments Sample Technician** and an aspiring **Marn Stack Web Developer** 👨‍💻. Currently, I am a student at **Programming Hero (Level 1)**, focused on building professional web applications.
 
 ### 🚀 Currently Learning & Mastering:
 - **Frontend:** HTML5, CSS3, JavaScript (ES6), React.js, Tailwind CSS.
