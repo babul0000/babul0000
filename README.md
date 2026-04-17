@@ -105,15 +105,7 @@ const babul = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=babul0000&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/babul0000)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
