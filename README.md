@@ -91,7 +91,7 @@ const babul = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babul0000&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=e2e8f0&langs_count=6" width="38%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babul0000&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=e2e8f0&langs_count=6" width="38%" /> -->
 
 </div>
 
