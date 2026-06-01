@@ -44,7 +44,7 @@ const babul = {
 
 | 🎯 Then | ➡️ | 🚀 Now |
 |:---:|:---:|:---:|
-| Garments Sample Technician | Career Switch | MERN Stack Developer |
+| Garments Sample Technician | Career Switch | MERN Stack Developer. |
 | 👕 Stitching fabric | ⚡ Transformed | 💻 Writing code |
 
 > _"Coding is my new craft — and I'm just getting started"_
