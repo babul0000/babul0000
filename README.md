@@ -25,7 +25,7 @@
 ```js
 const babul = {
   name        : "Babul Hossan",
-  role        : "Aspiring MERN Stack Developer",
+  role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
   codingStart : "31 December 2025 ⚡",
   learning    : ["React.js", "Next.js", "Node.js", "MongoDB", "Express.js"],
