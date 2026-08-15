@@ -28,7 +28,7 @@ const babul = {
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
   codingStart : "31 December 2025 ⚡",
-  learning    : ["React.js", "Next.js", "Node.js", "MongoDB", "Express.js"],
+  learning    : ["React,js", "Next.js", "Node.js", "MongoDB", "Express.js"],
   current     : "Building real-world projects with React & Tailwind CSS",
   goal        : "Become a professional Full-Stack Developer 🚀",
   funFact     : "Switched careers → now turning ideas into code!",
