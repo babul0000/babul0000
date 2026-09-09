@@ -14,7 +14,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:D97706&height=2&width=1000" width="100%"/>
 
 ## 🧭 The Journey
 
@@ -54,7 +54,7 @@ Prisma · Tailwind CSS
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97706,50:4F46E5,100:0F172A&height=2&width=1000" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -71,17 +71,48 @@ const babul: Developer = {
 };
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:D97706,100:0F172A&height=2&width=1000" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,prisma,tailwind,react,nodejs,git,github,vscode&theme=dark" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🎨 Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,js&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**⚙️ Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**🗄️ Database**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Deploy & Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,figma&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:D97706,100:4F46E5&height=2&width=1000" width="100%"/>
 
 ## 🚀 Featured Project
 
@@ -90,17 +121,15 @@ const babul: Developer = {
 ### ONWEAR — Bangladesh E-Commerce Platform
 *A clothing e-commerce platform built for the Bangladeshi market — bKash/Nagad payments, Dhaka delivery zones, bilingual UI.*
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,prisma,tailwind&theme=dark" />
 
-**[🔗 Live Demo](https://onwear.vercel.app)**
+<br/><br/>
+
+**[🔗 Live Demo →](https://onwear.vercel.app)**
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:0F172A,100:D97706&height=2&width=1000" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -111,7 +140,7 @@ const babul: Developer = {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97706,50:0F172A,100:4F46E5&height=2&width=1000" width="100%"/>
 
 ## 🤝 Connect With Me
 
